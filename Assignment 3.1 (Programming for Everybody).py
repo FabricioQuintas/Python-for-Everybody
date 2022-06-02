@@ -28,5 +28,5 @@ if h > 0:
 # Print if pay is higher than 0
 if pay > 0:
     print("Pay equals to:", pay)
-# Final print
+# Final print if pay is 0 or lower
 else: print("Non assigned pay")
