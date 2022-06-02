@@ -6,3 +6,6 @@ This Specialization builds on the success of the Python for Everybody course and
 
 #### This are my class notes.
 To check the full course you can join at: https://www.coursera.org/learn/python/
+
+
+If someone want that i upload quiz files to, contact me via [LinkedIn](https://www.linkedin.com/in/fabricio-quintas/)
