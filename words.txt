@@ -21,4 +21,4 @@ do next If we knew this language we could tell the
 computer to do tasks on our behalf that were reptitive  
 Interestingly, the kinds of things computers can do best
 are often the kinds of things that we humans find boring
-and mind-numbing
+and mind-numbing 
